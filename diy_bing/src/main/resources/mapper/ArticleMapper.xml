@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="top.bing6749.mapper.ArticleMapper">
+
+    <resultMap id="BaseResultMap" type="top.bing6749.domain.Article">
+            <id property="articleId" column="article_id" jdbcType="INTEGER"/>
+            <result property="articleType" column="article_type" jdbcType="VARCHAR"/>
+            <result property="articleTitle" column="article_title" jdbcType="VARCHAR"/>
+            <result property="articleDate" column="article_date" jdbcType="DATE"/>
+            <result property="articleDescription" column="article_description" jdbcType="VARCHAR"/>
+            <result property="articleContent" column="article_content" jdbcType="VARCHAR"/>
+            <result property="articleImage" column="article_image" jdbcType="VARCHAR"/>
+            <result property="articleView" column="article_view" jdbcType="INTEGER"/>
+            <result property="articleStatus" column="article_status" jdbcType="INTEGER"/>
+    </resultMap>
+
+    <resultMap id="selectByArticleTitle" type="top.bing6749.domain.ArticleAndTag">
+        <id property="articleId" column="article_id" jdbcType="INTEGER"/>
+        <result property="articleType" column="article_type" jdbcType="VARCHAR"/>
+        <result property="articleTitle" column="article_title" jdbcType="VARCHAR"/>
+        <result property="articleDate" column="article_date" jdbcType="DATE"/>
+        <result property="articleDescription" column="article_description" jdbcType="VARCHAR"/>
+        <result property="articleContent" column="article_content" jdbcType="VARCHAR"/>
+        <result property="articleImage" column="article_image" jdbcType="VARCHAR"/>
+        <result property="articleView" column="article_view" jdbcType="INTEGER"/>
+        <result property="articleStatus" column="article_status" jdbcType="INTEGER"/>
+        <collection property="tags" ofType="top.bing6749.domain.Tag">
+            <result property="tagId" column="tag_id"/>
+            <result property="tagName" column="tag_name"/>
+        </collection>
+    </resultMap>
+    <sql id="Base_Column_List">
+        article_id,article_type,article_title,
+        article_date,article_description,article_content,
+        article_image,article_view,article_status
+    </sql>
+    <insert id="addViewByArticleId" parameterType="int" >
+        update article set article_view = article_view + 1 where article_id = #{value}
+    </insert>
+
+    <!--    @Select("select * from article " +-->
+<!--    "<if test='queryString != null and queryString.length > 0'>-->
+<!--    " +-->
+<!--    "            where article_title = #{queryString}-->
+<!--    " +-->
+<!--    "        </if>" )-->
+<!--    @Results({-->
+<!--    @Result(id = true,column = "article_id",property = "articleId"),-->
+<!--    @Result(column = "article_title",property = "articleTitle"),-->
+<!--    @Result(column = "article_type",property = "articleType"),-->
+<!--    @Result(column = "article_date",property = "articleDate"),-->
+<!--    @Result(column = "article_description",property = "articleDescription"),-->
+<!--    @Result(column = "article_content",property = "articleContent"),-->
+<!--    @Result(column = "article_image",property = "articleImage"),-->
+<!--    @Result(column = "article_view",property = "articleView"),-->
+<!--    @Result(column = "article_id",property = "tags",javaType = List.class,-->
+<!--    many = @Many(select = "top.bing6749.mapper.ArticleTagMapper.findTagNamesByAid"))-->
+<!--    })-->
+
+    <select id="selectByArticleTitle" resultMap="selectByArticleTitle" >
+        select a.*, t.* from article a,article_tag at, tag t
+        where article_title like concat("%",#{queryString},"%")
+         and a.article_id = at.article_id
+         and at.tag_id = t.tag_id
+    </select>
+    <!--    <select id="selectInformation" parameterType="int" resultType="map">-->
+<!--        select a.article_id,a.article_title,a.article_date,a.article_description,a.article_content,a.article_image,a.article_view-->
+<!--         from article a,article_tag at,tag t-->
+<!--        where a.article_id = at.article_id and at.tag_id = t.tag_id and a.article_type = #{value}-->
+<!--    </select>-->
+</mapper>
