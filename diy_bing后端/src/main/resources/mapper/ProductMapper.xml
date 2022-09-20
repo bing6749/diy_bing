@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="top.bing6749.mapper.ProductMapper">
+
+    <resultMap id="BaseResultMap" type="top.bing6749.domain.Product">
+            <id property="brandid" column="brandId" jdbcType="INTEGER"/>
+            <result property="paramitemvalue" column="paramItemValue" jdbcType="VARCHAR"/>
+            <result property="pic" column="pic" jdbcType="VARCHAR"/>
+            <result property="productid" column="productId" jdbcType="VARCHAR"/>
+            <result property="productname" column="productName" jdbcType="VARCHAR"/>
+            <result property="score" column="score" jdbcType="VARCHAR"/>
+            <result property="sort" column="sort" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        brandId,paramItemValue,pic,
+        productId,productName,score,
+        sort
+    </sql>
+</mapper>

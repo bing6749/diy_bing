@@ -1,0 +1,407 @@
+[
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX3090",
+        "pic": "https://img.pconline.com.cn/images/product/1302/1302447/geforce-rtx-3090-shop-460-d_sn8.png",
+        "productId": 1302447,
+        "productName": "NVIDIA GeForce RTX 3090",
+        "score": 198580,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "NVIDIA GeForce RTX 3080Ti",
+        "pic": "https://www1.pconline.com.cn/zt/gz20150324/product/image/blank_160_120.png",
+        "productId": 1392187,
+        "productName": "NVIDIA GeForce RTX 3080Ti",
+        "score": 195730,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "RX6900XT",
+        "pic": "https://img.pconline.com.cn/images/product/1320/1320187/f_sn8.png",
+        "productId": 1320187,
+        "productName": "AMD Radeon RX 6900 XT",
+        "score": 185140,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "RX6800XT",
+        "pic": "https://img.pconline.com.cn/images/product/1320/1320167/f_sn8.png",
+        "productId": 1320167,
+        "productName": "AMD Radeon RX 6800 XT",
+        "score": 177440,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX3080",
+        "pic": "https://img.pconline.com.cn/images/product/1302/1302407/geforce-rtx-3080-shop-630-d_sn8.png",
+        "productId": 1302407,
+        "productName": "NVIDIA GeForce RTX 3080",
+        "score": 176940,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "RX6800",
+        "pic": "https://img.pconline.com.cn/images/product/1320/1320188/f_sn8.png",
+        "productId": 1320188,
+        "productName": "AMD Radeon RX 6800",
+        "score": 150590,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX Titan",
+        "pic": "https://img.pconline.com.cn/images/product/1141/1141830/gamersky_02small_04_20181232224DCC_sn8.jpg",
+        "productId": 1141830,
+        "productName": "NVIDIA Titan RTX",
+        "score": 149390,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "NVIDIA GeForce RTX 3070Ti",
+        "pic": "https://www1.pconline.com.cn/zt/gz20150324/product/image/blank_160_120.png",
+        "productId": 1392207,
+        "productName": "NVIDIA GeForce RTX 3070Ti",
+        "score": 148250,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX2080Ti",
+        "pic": "https://img.pconline.com.cn/images/product/1086/1086407/2018z_sn8.jpg",
+        "productId": 1086407,
+        "productName": "NVIDIA GeForce RTX 2080Ti",
+        "score": 147650,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX3070",
+        "pic": "https://img.pconline.com.cn/images/product/1302/1302427/geforce-rtx-3070-shop-462-l_sn8.png",
+        "productId": 1302427,
+        "productName": "NVIDIA GeForce RTX 3070",
+        "score": 138210,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "TITAN V",
+        "pic": "https://img.pconline.com.cn/images/product/1068/1068227/nvidia-titan-xp-shop-625-ud_sn8.jpg",
+        "productId": 1068227,
+        "productName": "NVIDIA TITAN V",
+        "score": 129510,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "AMD Radeon RX 6700 XT",
+        "pic": "https://img.pconline.com.cn/images/product/1366/1366008/6700XT_sn8.png",
+        "productId": 1366008,
+        "productName": "AMD Radeon RX 6700 XT",
+        "score": 119600,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX3060Ti",
+        "pic": "https://img.pconline.com.cn/images/product/1332/1332747/3060Ti_sn8.png",
+        "productId": 1332747,
+        "productName": "NVIDIA GeForce RTX 3060 Ti",
+        "score": 119330,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX2080Super",
+        "pic": "https://img.pconline.com.cn/images/product/1196/1196767/1_sn8.jpg",
+        "productId": 1196767,
+        "productName": "NVIDIA GeForce RTX 2080 SUPER",
+        "score": 116330,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX2080",
+        "pic": "https://img.pconline.com.cn/images/product/1084/1084530/2018z_sn8.jpg",
+        "productId": 1084530,
+        "productName": "NVIDIA GeForce RTX 2080",
+        "score": 110750,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "Titan Xp",
+        "pic": "https://img.pconline.com.cn/images/product/6853/685336/gallery-1_sn8.jpg",
+        "productId": 685336,
+        "productName": "NVIDIA TITAN Xp",
+        "score": 101790,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX2070Super",
+        "pic": "https://img.pconline.com.cn/images/product/1196/1196787/1_sn8.jpg",
+        "productId": 1196787,
+        "productName": "NVIDIA GeForce RTX 2070 SUPER",
+        "score": 101620,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1080Ti",
+        "pic": "https://img.pconline.com.cn/images/product/6407/640712/GTX1080Ti_45S_sn8.jpg",
+        "productId": 640712,
+        "productName": "NVIDIA GeForce GTX 1080 Ti",
+        "score": 99470,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "AMD Radeon RX 6600 XT",
+        "pic": "https://img.pconline.com.cn/images/product/1413/1413047/6600xt_sn8.png",
+        "productId": 1413047,
+        "productName": "AMD Radeon RX 6600 XT",
+        "score": 98820,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "Titan X",
+        "pic": "https://img.pconline.com.cn/images/product/6257/625743/titanX_Z_sn8.jpg",
+        "productId": 625743,
+        "productName": "NVIDIA TITAN X",
+        "score": 98310,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "RX5700XT",
+        "pic": "https://img.pconline.com.cn/images/product/1189/1189048/z_sn8.jpg",
+        "productId": 1189048,
+        "productName": "AMD Radeon RX 5700 XT",
+        "score": 95410,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX2070",
+        "pic": "https://img.pconline.com.cn/images/product/1084/1084531/666_sn8.jpg",
+        "productId": 1084531,
+        "productName": "NVIDIA GeForce RTX 2070",
+        "score": 91070,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "NVIDIA GeForce RTX 3060",
+        "pic": "https://img.pconline.com.cn/images/product/1332/1332747/3060Ti_sn8.png",
+        "productId": 1348447,
+        "productName": "NVIDIA GeForce RTX 3060",
+        "score": 89330,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "AMD Radeon RX 6600",
+        "pic": "https://img.pconline.com.cn/images/product/1413/1413047/6600xt_sn8.png",
+        "productId": 1440927,
+        "productName": "AMD Radeon RX 6600",
+        "score": 88964,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "Radeon VII",
+        "pic": "https://img.pconline.com.cn/images/product/1153/1153087/z_sn8.jpg",
+        "productId": 1153087,
+        "productName": "AMD Radeon VII",
+        "score": 88640,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX2060super",
+        "pic": "https://img.pconline.com.cn/images/product/1196/1196788/1_sn8.jpg",
+        "productId": 1196788,
+        "productName": "NVIDIA GeForce RTX 2060 SUPER",
+        "score": 87930,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "RX5700",
+        "pic": "https://img.pconline.com.cn/images/product/1189/1189067/1_sn8.jpg",
+        "productId": 1189067,
+        "productName": "AMD Radeon RX 5700",
+        "score": 84160,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "RX5600XT",
+        "pic": "https://img.pconline.com.cn/images/product/1239/1239949/45_sn8.jpg",
+        "productId": 1239949,
+        "productName": "AMD Radeon RX 5600 XT",
+        "score": 75910,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "RTX2060",
+        "pic": "https://img.pconline.com.cn/images/product/1151/1151848/1_sn8.jpg",
+        "productId": 1151848,
+        "productName": "NVIDIA GeForce RTX 2060",
+        "score": 75710,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1080",
+        "pic": "https://img.pconline.com.cn/images/product/6193/619354/G1080_Z_sn8.jpg",
+        "productId": 619354,
+        "productName": "NVIDIA GeForce GTX 1080",
+        "score": 75620,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "RX Vega 64",
+        "pic": "https://img.pconline.com.cn/images/product/1080/1080010/S1080010_1_sn8.jpg",
+        "productId": 1080010,
+        "productName": "Radeon RX Vega 64",
+        "score": 72920,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX 1070Ti",
+        "pic": "https://img.pconline.com.cn/images/product/1073/1073427/S1073427_1_sn8.jpg",
+        "productId": 1073427,
+        "productName": "NVIDIA Geforce GTX 1070 Ti",
+        "score": 68370,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "RX Vega 56",
+        "pic": "https://img.pconline.com.cn/images/product/1080/1080006/S1080006_sn8.jpg",
+        "productId": 1080006,
+        "productName": "AMD Radeon RX Vega 56",
+        "score": 67790,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1660Ti",
+        "pic": "https://img.pconline.com.cn/images/product/1155/1155787/GTX_sn8.png",
+        "productId": 1155787,
+        "productName": "NVIDIA GeForce GTX 1660 Ti",
+        "score": 63700,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1660super",
+        "pic": "https://img.pconline.com.cn/images/product/1227/1227158/GTX_sn8.png",
+        "productId": 1227158,
+        "productName": "NVIDIA GeForce GTX 1660 SUPER",
+        "score": 61110,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1070",
+        "pic": "https://img.pconline.com.cn/images/product/6193/619355/GTX1070_Z_sn8.jpg",
+        "productId": 619355,
+        "productName": "NVIDIA GeForce GTX 1070",
+        "score": 60560,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1660",
+        "pic": "https://img.pconline.com.cn/images/product/1155/1155788/GTX_sn8.png",
+        "productId": 1155788,
+        "productName": "NVIDIA GeForce GTX 1660",
+        "score": 54540,
+        "sort": null
+    },
+    {
+        "brandId": 21103,
+        "paramItemValue": "RX5500XT",
+        "pic": "https://img.pconline.com.cn/images/product/1223/1223771/z_sn8.jpg",
+        "productId": 1223771,
+        "productName": "AMD Radeon RX 5500 XT",
+        "score": 48370,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1650Super",
+        "pic": "https://img.pconline.com.cn/images/product/1229/1229859/1_sn8.jpg",
+        "productId": 1229859,
+        "productName": "NVIDIA GeForce GTX 1650 SUPER",
+        "score": 47070,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1060 6GB",
+        "pic": "https://img.pconline.com.cn/images/product/6237/623767/NVGTX1060_Z_sn8.jpg",
+        "productId": 623767,
+        "productName": "NVIDIA GeForce GTX 1060 6GB",
+        "score": 41750,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1060 3GB",
+        "pic": "https://img.pconline.com.cn/images/product/1073/1073342/S1073342_1_sn8.jpg",
+        "productId": 1073342,
+        "productName": "NVIDIA Geforce GTX 1060 3GB",
+        "score": 38310,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1650",
+        "pic": "https://img.pconline.com.cn/images/product/1162/1162788/GTX_sn8.png",
+        "productId": 1162788,
+        "productName": "NVIDIA GeForce GTX 1650 GDDR5",
+        "score": 34340,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1050Ti",
+        "pic": "https://img.pconline.com.cn/images/product/6326/632632/GTX1050x_sn8.jpg",
+        "productId": 632632,
+        "productName": "NVIDIA GeForce GTX 1050Ti",
+        "score": 23520,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GTX1050",
+        "pic": "https://img.pconline.com.cn/images/product/6302/630296/GTX1050x_sn8.jpg",
+        "productId": 630296,
+        "productName": "NVIDIA GeForce GTX 1050 2GB",
+        "score": 17040,
+        "sort": null
+    },
+    {
+        "brandId": 79649,
+        "paramItemValue": "GT1030",
+        "pic": "https://img.pconline.com.cn/images/product/1073/1073346/S1073346_1_sn8.jpg",
+        "productId": 1073346,
+        "productName": "NVIDIA GeForce GT 1030",
+        "score": 10880,
+        "sort": null
+    }
+]
